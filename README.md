@@ -1,2 +1,2 @@
 # Robotics
-Robotics projects for University of Boulder
+Robotics projects for Robotics course in University of Boulder
